@@ -1,0 +1,23 @@
+{
+  "name": "python-binaryseacrhtree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon main.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1912Alan-Turing1954/Python-BinarySeacrhTree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1912Alan-Turing1954/Python-BinarySeacrhTree/issues"
+  },
+  "homepage": "https://github.com/1912Alan-Turing1954/Python-BinarySeacrhTree#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
